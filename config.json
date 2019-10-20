@@ -1,0 +1,65 @@
+[
+    {
+        "message": "BB23FC0",
+        "name": "code",
+        "len": 3,
+        "start": 1,
+        "end": 3
+    }, 
+    {
+        "message": "BB23FC0",
+        "name": "isin",
+        "len": 12,
+        "start": 4,
+        "end": 15
+    },
+    {
+        "message": "BB23FC0",
+        "name": "ssop",
+        "len": 4,
+        "start": 16,
+        "end": 19
+    },
+    {
+        "message": "BB23FC0",
+        "name": "level",
+        "len": 1,
+        "start": 20,
+        "end": 20
+    },
+    {
+        "message": "BB23FC0",
+        "name": "foo_1",
+        "len": 15,
+        "start": 21,
+        "end": 35
+    },
+    {
+        "message": "BB23FC0",
+        "name": "foo_2",
+        "len": 20,
+        "start": 36,
+        "end": 55
+    },
+    {
+        "message": "BB23FC0",
+        "name": "foo_3",
+        "len": 20,
+        "start": 56,
+        "end": 75
+    },
+    {
+        "message": "BB23FC0",
+        "name": "foo_4",
+        "len": 20,
+        "start": 76,
+        "end": 95
+    },
+    {
+        "message": "BB23FC0",
+        "name": "foo_5",
+        "len": 65,
+        "start": 96,
+        "end": 150
+    }
+]
